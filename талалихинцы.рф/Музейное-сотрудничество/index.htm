@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Музейное сотрудничество — Талалихинцы</title>
+	<link rel="stylesheet" href="../main-redesign.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header class="main-header">
+		<div class="header-top">
+			<button class="burger" id="burger-menu" aria-label="Открыть меню">
+				<span></span><span></span><span></span>
+			</button>
+			<img src="../gallery_gen/47ffac71fde0d5a3b65d44b58713ba9e.jpg" alt="Дети и педагоги" class="header-photo">
+		</div>
+		<div class="header-title-block">
+			<h1>ТАЛАЛИХИНЦЫ</h1>
+			<h2>МЕЖРЕГИОНАЛЬНАЯ ПАТРИОТИЧЕСКАЯ<br>ОБЩЕСТВЕННАЯ ОРГАНИЗАЦИЯ</h2>
+		</div>
+	</header>
+	<nav class="main-nav" id="main-nav">
+		<ul>
+			<li><a href="../index.html">Главная</a></li>
+			<li><a href="../Новости/index.htm">Новости</a></li>
+			<li><a href="../Статьи/index.htm">Статьи</a></li>
+			<li><a href="index.htm" class="active">Музейное сотрудничество</a></li>
+			<li><a href="../Военно-патриотическое-воспитание/index.htm">Военно-патриотическое воспитание</a></li>
+			<li><a href="../Увековечивание-памяти/index.htm">Увековечение памяти</a></li>
+		</ul>
+	</nav>
+	<main>
+		<section class="hero-block">
+			<div class="hero-info">
+				<div class="hero-text">
+					<h2>Музейное сотрудничество</h2>
+					<p>Организация «Талалихинцы» активно сотрудничает с музеями, сохраняющими память о лётчиках и героях.</p>
+				</div>
+			</div>
+		</section>
+		<section class="news-block">
+			<h3>Наши музеи и партнёры</h3>
+			<ul class="articles-list">
+				<li>Музей боевой Авиации имени Виктора Талалихина в Поселке Красный Путь Домодедовского городского округа: <a href="https://ideputat.er.ru/news/83392." target="_blank">Информация об открытии музея</a></li>
+				<li>О музее рассказывает его руководитель — <a href="https://mosregtoday.ru/geroi-podmoskov-ya/yurij-proskurin-rasskazyvaem-o-sudbah-letchikov-v-muzee-boevoj-aviacii/" target="_blank">Юрий Николаевич Проскурин</a></li>
+				<li>Экскурсии по музеям: <a href="https://www.youtube.com/watch?v=26CAut2H5b8&feature=youtu.be" target="_blank">1 экскурсия</a>, <a href="https://www.youtube.com/watch?v=PVQ0HnKLb4Q&feature=youtu.be" target="_blank">2 экскурсия</a></li>
+				<li>Музей истории авиации и космонавтики России в Подольской школе №32: <a href="https://youtu.be/tmLA2hbdWaY" target="_blank">Экспозиция 1</a>, <a href="https://www.youtube.com/watch?v=cuyW_AqMREU" target="_blank">Экспозиция 2</a>, <a href="https://youtu.be/Zy0tWNn4Gvk" target="_blank">Экспозиция 3</a></li>
+				<li>Музей Виктора Талалихина в Школе №480 г.Москвы: <a href="https://sch480c.mskobr.ru/files/photo/20-21/%D0%B4%D0%BE%D0%BF/%D0%BC%D1%83%D0%B7%D0%B5%D0%B8/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%A2%D0%B0%D0%BB%D0%B0%D0%BB%D0%B8%D1%85%D0%B8%D0%BD%D0%B0%20001.pdf" target="_blank">PDF</a></li>
+				<li>Домодедовский историко-художественный музей: <a href="http://dom-museum.mo.muzkult.ru/media/2018/08/15/1227474434/image_image_2984248.JPG" target="_blank">Фото экспоната</a></li>
+				<li>Дом-музей Героя Советского Союза В.В.Талалихина в с.Тепловка: <a href="https://yandex.ru/video/preview/?text=дом-музей%20в.талалихина%20в%20с.тепловка&path=wizard&parent-reqid=1644164079226337-12767552881184158119-sas3-0939-d85-sas-l7-balancer-8080-BAL-9073&wiz_type=vital&filmId=16549134446480179870" target="_blank">Видео</a></li>
+			</ul>
+		</section>
+		<section class="subscribe-block">
+			<h3>Вы подписались на наши эксклюзивные предложения?</h3>
+			<form class="subscribe-form">
+				<input type="text" name="name" placeholder="Имя" required>
+				<input type="email" name="email" placeholder="Эл. почта" required>
+				<input type="text" name="city" placeholder="Город" required>
+				<label class="checkbox-label"><input type="checkbox" name="subscribe"> Я хочу получать рассылку</label>
+				<button type="submit">Подписка</button>
+			</form>
+			<div class="contact-email">talalihinzy@mail.ru</div>
+		</section>
+	</main>
+	<footer class="main-footer">
+		<div class="footer-content">&copy; 2024 Талалихинцы</div>
+	</footer>
+	<script>
+		// Мобильное меню
+		document.getElementById('burger-menu').onclick = function() {
+			document.getElementById('main-nav').classList.toggle('open');
+		};
+	</script>
+</body>
+</html>

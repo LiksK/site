@@ -1,0 +1,1216 @@
+Uri: https://fonts.googleapis.com/css?family=Adamina:400&subset=latin
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-18
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Advent Pro:100,200,300,400,500,600,700&subset=greek,latin,latin-ext
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-11
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Arima Madurai:100,200,300,400,500,700,800,900&subset=latin,latin-ext,tamil,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-14
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Averia Serif Libre:300,300i,400,400i,700,700i&subset=latin
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-15
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant Garamond:300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-20
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800&subset=latin,latin-ext
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-13
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Exo 2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=IBM Plex Mono:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-12
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-17
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans Condensed:300,300i,700&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-19
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400&subset=latin
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-10
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Sans Caption:400,700&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Sans Narrow:400,700&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Serif:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-16
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto Condensed:300,300i,400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto Slab:100,200,300,400,500,600,700,800,900&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css-7
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/adamina/v21/j8_r6-DH1bjoc-dwi-3UFQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adamina\v21\j8_r6-DH1bjoc-dwi-3UFQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLcSNPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLcSNPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLHSNPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLHSNPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLnSRPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLnSRPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLpCRPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLpCRPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLQyJPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLQyJPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLQyNPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLQyNPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/adventpro/v32/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLwyNPTA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\adventpro\v32\V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLwyNPTA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t4IRoeKYORG0WNMgnC3seB1V3Pqg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t4IRoeKYORG0WNMgnC3seB1V3Pqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1b3oips.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t7IRoeKYORG0WNMgnC3seB1b3oips.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1c3sips.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t7IRoeKYORG0WNMgnC3seB1c3sips.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1fHuips.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t7IRoeKYORG0WNMgnC3seB1fHuips.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1YXqips.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t7IRoeKYORG0WNMgnC3seB1YXqips.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1Znpips.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t7IRoeKYORG0WNMgnC3seB1Znpips.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1ZXtips.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5t7IRoeKYORG0WNMgnC3seB1ZXtips.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimamadurai/v15/t5tmIRoeKYORG0WNMgnC3seB7Tk.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\arimamadurai\v15\t5tmIRoeKYORG0WNMgnC3seB7Tk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averiaseriflibre/v19/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzM2xJ0pXrM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\averiaseriflibre\v19\neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzM2xJ0pXrM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averiaseriflibre/v19/neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzMmw50pXrM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\averiaseriflibre\v19\neIbzD2ms4wxr6GvjeD0X88SHPyX2xYOpzMmw50pXrM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averiaseriflibre/v19/neIUzD2ms4wxr6GvjeD0X88SHPyX2xYOpzuN4Y0.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\averiaseriflibre\v19\neIUzD2ms4wxr6GvjeD0X88SHPyX2xYOpzuN4Y0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averiaseriflibre/v19/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGCSmaxq0u.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\averiaseriflibre\v19\neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGCSmaxq0u.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averiaseriflibre/v19/neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0u.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\averiaseriflibre\v19\neIVzD2ms4wxr6GvjeD0X88SHPyX2xYGGS6axq0u.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averiaseriflibre/v19/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguK.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\averiaseriflibre\v19\neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTfOjw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTfOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDfOjw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDfOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDDOjw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDDOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6GnM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6GnM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v20/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\cormorantgaramond\v20\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMl1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMl1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql1RMB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\dosis\v33\HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql1RMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v25/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC6.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\exo2\v25\7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F63fjptAgt5VM-kVkqdyU8n5ig.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F63fjptAgt5VM-kVkqdyU8n5ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6pfjptAgt5VM-kVkqdyU8n1ioq0g.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6pfjptAgt5VM-kVkqdyU8n1ioq0g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6pfjptAgt5VM-kVkqdyU8n3kwq0g.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6pfjptAgt5VM-kVkqdyU8n3kwq0g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3oQI8lc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6qfjptAgt5VM-kVkqdyU8n3oQI8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3pQP8lc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6qfjptAgt5VM-kVkqdyU8n3pQP8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3uAL8lc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6qfjptAgt5VM-kVkqdyU8n3uAL8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3vAO8lc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6qfjptAgt5VM-kVkqdyU8n3vAO8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6rfjptAgt5VM-kVkqdyU8n1ioStndl.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6rfjptAgt5VM-kVkqdyU8n1ioStndl.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJFhw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6sfjptAgt5VM-kVkqdyU8n1ioSblJFhw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSClNFhw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6sfjptAgt5VM-kVkqdyU8n1ioSClNFhw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSflVFhw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6sfjptAgt5VM-kVkqdyU8n1ioSflVFhw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZFhw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZFhw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlRFhw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ibmplexmono\v19\-F6sfjptAgt5VM-kVkqdyU8n1ioSJlRFhw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQg.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\opensanscondensed\v23\z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUbtY.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUbtY.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UbtY.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUbtY.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtY.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v39/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\playfairdisplay\v39\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\poppins\v23\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsans\v17\jizaRExUiTo99u79P0U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizdRExUiTo99u79D0e8fOytKA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsans\v17\jizdRExUiTo99u79D0e8fOytKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsans\v17\jizfRExUiTo99u79B_mh4Ok.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0eEwA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsans\v17\jizYRExUiTo99u79D0eEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v19/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsanscaption\v19\0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v19/0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsanscaption\v19\0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v18/BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsansnarrow\v18\BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v18/BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptsansnarrow\v18\BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRQQgYoZZY2vCFuvAFT9gaQVy4.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptserif\v18\EJRQQgYoZZY2vCFuvAFT9gaQVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRSQgYoZZY2vCFuvAnt65qV.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptserif\v18\EJRSQgYoZZY2vCFuvAnt65qV.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRTQgYoZZY2vCFuvAFTzro.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptserif\v18\EJRTQgYoZZY2vCFuvAFTzro.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRVQgYoZZY2vCFuvDFR.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\ptserif\v18\EJRVQgYoZZY2vCFuvDFR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v30/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotocondensed\v30\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v30/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotocondensed\v30\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v30/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsovBJ.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotocondensed\v30\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v30/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N5Xk.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotocondensed\v30\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v30/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK5Xk.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotocondensed\v30\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v30/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK5Xk.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotocondensed\v30\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf
+Content Type: font/ttf
+
+Uri: https://талалихинцы.рф/
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\index.htm
+Content Type: text/html
+
+Uri: https://талалихинцы.рф/Военно-патриотическое-воспитание/
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\Военно-патриотическое-воспитание\index.htm
+Content Type: text/html
+
+Uri: https://талалихинцы.рф/Музейное-сотрудничество/
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\Музейное-сотрудничество\index.htm
+Content Type: text/html
+
+Uri: https://талалихинцы.рф/Новости/
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\Новости\index.htm
+Content Type: text/html
+
+Uri: https://талалихинцы.рф/Статьи/
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\Статьи\index.htm
+Content Type: text/html
+
+Uri: https://талалихинцы.рф/Увековечивание-памяти/
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\Увековечивание-памяти\index.htm
+Content Type: text/html
+
+Uri: https://талалихинцы.рф/css/1.css?ts=1749381993
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\1.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/18.css?ts=1749381994
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\18.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/19.css?ts=1749381994
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\19.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/5.css?ts=1749381993
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\5.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/6.css?ts=1749381993
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\6.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/9.css?ts=1749381994
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\9.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/common.css?ts=1749381993
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\common.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/common.css?ts=1749381994
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\common-1.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/flag-icon-css/css/flag-icon.min.css
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\flag-icon-css\css\flag-icon.min.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/font-awesome/font-awesome.min.css?v=4.7.0
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\font-awesome\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/fonts/AtlanticCruise.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\AtlanticCruise.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/AtlanticCruise.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\AtlanticCruise.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/AtlanticCruise.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\AtlanticCruise.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/avenirltstd-light.otf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\avenirltstd-light.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://талалихинцы.рф/css/fonts/BNazanin.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BNazanin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/BNazanin.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BNazanin.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/BNazanin.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BNazanin.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/BYekan.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BYekan.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/BYekan.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BYekan.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/BYekan.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BYekan.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/BZar.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BZar.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/BZar.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BZar.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/BZar.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\BZar.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/Capture it.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Capture it.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/custom/uploaded.css
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\custom\uploaded.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://талалихинцы.рф/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/IranNastaliq.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IranNastaliq.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/IranNastaliq.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IranNastaliq.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/IranNastaliq.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IranNastaliq.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/IRANSansWeb.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IRANSansWeb.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/IRANSansWeb.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IRANSansWeb.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/IRANSansWeb.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IRANSansWeb.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/IRANSansWeb.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\IRANSansWeb.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/Nahid.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Nahid.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/Nahid.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Nahid.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/Nahid.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Nahid.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/Nahid.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Nahid.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Bold.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Bold.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Bold.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Bold.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Bold.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-ExtraBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-ExtraBold.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-ExtraBold.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Regular.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Regular.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Regular.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/NanumGothic-Regular.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\NanumGothic-Regular.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/fonts/Vazir.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Vazir.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/css/fonts/Vazir.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Vazir.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/css/fonts/Vazir.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Vazir.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/css/fonts/Vazir.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\fonts\Vazir.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/css/site.css?v=20230322160036
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\css\site.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://талалихинцы.рф/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://талалихинцы.рф/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://талалихинцы.рф/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://талалихинцы.рф/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://талалихинцы.рф/gallery/Заявка на проект.docx
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Заявка на проект.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://талалихинцы.рф/gallery/Итоговый релиз конференции 3.5.23 (проект).pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Итоговый релиз конференции 3.5.23 (проект).pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Календарный План проекта.docx
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Календарный План проекта.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://талалихинцы.рф/gallery/Команда проекта.docx
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Команда проекта.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://талалихинцы.рф/gallery/Красная Звезда от 26.12.2024.pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Красная Звезда от 26.12.2024.pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Маяк- статья.pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Маяк- статья.pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Не вернулись с боевого задания...pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Не вернулись с боевого задания...pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Огненные тараны АДД .pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Огненные тараны АДД .pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Он помнит летчика Виктора Талалихина.pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Он помнит летчика Виктора Талалихина.pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Памятка о самостоятельном поиске.pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Памятка о самостоятельном поиске.pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Призыв 37 от 2 июня 2023 г..pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Призыв 37 от 2 июня 2023 г..pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/Статья .pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\Статья .pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/кокорев-ts1718745643.png
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\кокорев-ts1718745643.png
+Content Type: image/png
+
+Uri: https://талалихинцы.рф/gallery/личная карточка-ts1718745868.png
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\личная карточка-ts1718745868.png
+Content Type: image/png
+
+Uri: https://талалихинцы.рф/gallery/8.pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\8.pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/MAY_0405_002-011.pdf
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\MAY_0405_002-011.pdf
+Content Type: application/pdf
+
+Uri: https://талалихинцы.рф/gallery/WhatsApp Video 2024-08-15 at 5.58.13 PM-ts1723817620.mp4
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery\WhatsApp Video 2024-08-15 at 5.58.13 PM-ts1723817620.mp4
+Content Type: video/mp4
+
+Uri: https://талалихинцы.рф/gallery_gen/072de6e20a48563725b4b3c66c2f9b3c_1272x586.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\072de6e20a48563725b4b3c66c2f9b3c_1272x586.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/07848a78042f3bf3ae283212112401ae_1500x942.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\07848a78042f3bf3ae283212112401ae_1500x942.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/10891e6f90f88fbb50f72815e6aeeeb9_454x342.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\10891e6f90f88fbb50f72815e6aeeeb9_454x342.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/138d620e7edaf52883c008288cd85443_982x736.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\138d620e7edaf52883c008288cd85443_982x736.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/156b3bcaaba83856ae4fae839ae3a013_1272x586.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\156b3bcaaba83856ae4fae839ae3a013_1272x586.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/1981998370581c785a61d52e93386ff0_824x550.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\1981998370581c785a61d52e93386ff0_824x550.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/2b3737408e9b05f7f2caf97644728ece.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\2b3737408e9b05f7f2caf97644728ece.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/2e9fcc08d52b94da6e0f74fbe2393782_626x470.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\2e9fcc08d52b94da6e0f74fbe2393782_626x470.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/3eb69b9083d5dfab962a80fe3b8bd7e4_852x568.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\3eb69b9083d5dfab962a80fe3b8bd7e4_852x568.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/47ffac71fde0d5a3b65d44b58713ba9e.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\47ffac71fde0d5a3b65d44b58713ba9e.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/5510a9b0e19e980a23651f6c7075b727_520x750.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\5510a9b0e19e980a23651f6c7075b727_520x750.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/5b3e1888b1f22bd9d2fd94fae6c3b397_762x500.png
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\5b3e1888b1f22bd9d2fd94fae6c3b397_762x500.png
+Content Type: image/png
+
+Uri: https://талалихинцы.рф/gallery_gen/7ab54e935868a92ff882adb97dac9eff_764x564.png
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\7ab54e935868a92ff882adb97dac9eff_764x564.png
+Content Type: image/png
+
+Uri: https://талалихинцы.рф/gallery_gen/8071a85014e7bdacf4b1ff94bdf770ec_398x530.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\8071a85014e7bdacf4b1ff94bdf770ec_398x530.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/836b9409247ddc15a8b2687aa4c205b4_452x340.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\836b9409247ddc15a8b2687aa4c205b4_452x340.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/8fd65c675f0d8d76f19a4bb60cd0a6f9_454x342.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\8fd65c675f0d8d76f19a4bb60cd0a6f9_454x342.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/afc3c5a8c3f401a689acfc652b516293_1080x716.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\afc3c5a8c3f401a689acfc652b516293_1080x716.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/b81a4e6fb4e37a3326405a0a17624af7_874x584.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\b81a4e6fb4e37a3326405a0a17624af7_874x584.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/c1177835a4083ca34ab89bc263db8fe0_628x472.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\c1177835a4083ca34ab89bc263db8fe0_628x472.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/d1b3f65ec0f177a18e90c59266073afb.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\d1b3f65ec0f177a18e90c59266073afb.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/e3ad80c94cda9d0523f78f8675aee866_396x528.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\e3ad80c94cda9d0523f78f8675aee866_396x528.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/e5904a402a2b5519a60d80caa2089f1c_626x470.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\e5904a402a2b5519a60d80caa2089f1c_626x470.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/e8249081be9c293d8c8a79fa5e0d5e88_812x542.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\e8249081be9c293d8c8a79fa5e0d5e88_812x542.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/e88bd7e978a099fc4f7242ce5e2328e5_626x470.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\e88bd7e978a099fc4f7242ce5e2328e5_626x470.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/f60839fa7800aa23d5c83267f1afbc3c_810x540.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\f60839fa7800aa23d5c83267f1afbc3c_810x540.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/f7e9d48f1041a96ab7fd8f90f4cf43f6.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\f7e9d48f1041a96ab7fd8f90f4cf43f6.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/fb908e01fa5021e0f56e734ed843ac78.jpeg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\fb908e01fa5021e0f56e734ed843ac78.jpeg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/fbbd01bea11df2c730eca48662814fbd_818x462.png
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\fbbd01bea11df2c730eca48662814fbd_818x462.png
+Content Type: image/png
+
+Uri: https://талалихинцы.рф/gallery_gen/fe63856a25a1e0768aa12ef08000e744_778x518.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\fe63856a25a1e0768aa12ef08000e744_778x518.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/gallery_gen/fe63856a25a1e0768aa12ef08000e744_830x554.jpg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\gallery_gen\fe63856a25a1e0768aa12ef08000e744_830x554.jpg
+Content Type: image/jpeg
+
+Uri: https://талалихинцы.рф/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://талалихинцы.рф/js/GalleryLib.js?v=20230322160037
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\GalleryLib.js
+Content Type: application/javascript
+
+Uri: https://талалихинцы.рф/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://талалихинцы.рф/js/main.js?v=20230322160037
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\main.js
+Content Type: application/javascript
+
+Uri: https://талалихинцы.рф/js/photoswipe/default-skin/default-skin.css
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\default-skin\default-skin.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/js/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://талалихинцы.рф/js/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://талалихинцы.рф/js/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://талалихинцы.рф/js/photoswipe/photoswipe-ui-default.min.js
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://талалихинцы.рф/js/photoswipe/photoswipe.css
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\photoswipe.css
+Content Type: text/css
+
+Uri: https://талалихинцы.рф/js/photoswipe/photoswipe.min.js
+File Name: C:\Downloaded Web Sites\талалихинцы.рф\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+

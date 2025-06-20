@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Статьи — Талалихинцы</title>
+	<link rel="stylesheet" href="../main-redesign.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header class="main-header">
+		<div class="header-top">
+			<button class="burger" id="burger-menu" aria-label="Открыть меню">
+				<span></span><span></span><span></span>
+			</button>
+			<img src="../gallery_gen/47ffac71fde0d5a3b65d44b58713ba9e.jpg" alt="Дети и педагоги" class="header-photo">
+		</div>
+		<div class="header-title-block">
+			<h1>ТАЛАЛИХИНЦЫ</h1>
+			<h2>МЕЖРЕГИОНАЛЬНАЯ ПАТРИОТИЧЕСКАЯ<br>ОБЩЕСТВЕННАЯ ОРГАНИЗАЦИЯ</h2>
+		</div>
+	</header>
+	<nav class="main-nav" id="main-nav">
+		<ul>
+			<li><a href="../index.html">Главная</a></li>
+			<li><a href="../Новости/index.htm">Новости</a></li>
+			<li><a href="index.htm" class="active">Статьи</a></li>
+			<li><a href="../Музейное-сотрудничество/index.htm">Музейное сотрудничество</a></li>
+			<li><a href="../Военно-патриотическое-воспитание/index.htm">Военно-патриотическое воспитание</a></li>
+			<li><a href="../Увековечивание-памяти/index.htm">Увековечение памяти</a></li>
+		</ul>
+	</nav>
+	<main>
+		<section class="hero-block">
+			<div class="hero-info">
+				<div class="hero-text">
+					<h2>Статьи</h2>
+					<p>Публикации, заметки и материалы о деятельности организации и её участниках.</p>
+				</div>
+			</div>
+		</section>
+		<section class="news-block">
+			<h3>Публикации и материалы</h3>
+			<ul class="articles-list">
+				<li><a href="../gallery/Красная Звезда от 26.12.2024.pdf" target="_blank">"Немеркнущая память" газета "Красная Звезда" от 26.12.2024г.</a></li>
+				<li><a href="../gallery/Он помнит летчика Виктора Талалихина.pdf" target="_blank">Он помнит летчика Виктора Талалихина</a></li>
+				<li><a href="../gallery/Огненные тараны АДД .pdf" target="_blank">"Огненные тараны Дальней Авиации" К.Б,Стрельбицкий</a></li>
+				<li><a href="../gallery/Статья .pdf" target="_blank">"Летопись краснозвёздного истребителя" (Как был найден самолет Виктора Талалихина) Михаил Поляков</a></li>
+				<li><a href="../gallery/Не вернулись с боевого задания...pdf" target="_blank">Не вернулись с боевого задания... (о судьбе летчика Николая Талалихина и его экипажа) Михаил Поляков</a></li>
+				<li><a href="http://history.milportal.ru/vtoraya-mezhregionalnaya-konferenciya-po-uvekovecheniyu-pamyati-letchikov-talalixincev/" target="_blank">Статья о Второй межрегиональной конференции по увековечению памяти летчиков-талалихинцев, 03 мая 2023</a></li>
+				<li><a href="../gallery/Маяк- статья.pdf" target="_blank">"Его зарыли в шар земной"</a></li>
+				<li><a href="../gallery/MAY_0405_002-011.pdf" target="_blank">"Без срока давности"</a></li>
+				<li><a href="../gallery/Призыв 37 от 2 июня 2023 г..pdf" target="_blank">"Новые страницы истории" газета "Призыв" (стр.6)</a></li>
+				<li><a href="../gallery/12 (1).pdf" target="_blank">"Память не меркнет" газета "Красная звезда" №129 от 17.11.2023г.</a></li>
+			</ul>
+			<h4>Поисковые заметки</h4>
+			<ul class="articles-list">
+				<li><a href="../gallery/Памятка о самостоятельном поиске.pdf" target="_blank">Памятка о самостоятельном поиске воинов Великой Отечественной войны от Розы Фаттаховой</a></li>
+			</ul>
+			<h4>Поисковая заметка от Михаила Полякова</h4>
+			<p>Вот и закончилась наша поисковая экспедиция. Отработали по полной программе... (сокращено для примера, полный текст можно вставить по желанию).</p>
+			<p>Более подробные репортажи: <a href="https://vk.com/club68297775?w=wall-68297775_607%2Fall" target="_blank">ссылка</a>.</p>
+		</section>
+		<section class="subscribe-block">
+			<h3>Вы подписались на наши эксклюзивные предложения?</h3>
+			<form class="subscribe-form">
+				<input type="text" name="name" placeholder="Имя" required>
+				<input type="email" name="email" placeholder="Эл. почта" required>
+				<input type="text" name="city" placeholder="Город" required>
+				<label class="checkbox-label"><input type="checkbox" name="subscribe"> Я хочу получать рассылку</label>
+				<button type="submit">Подписка</button>
+			</form>
+			<div class="contact-email">talalihinzy@mail.ru</div>
+		</section>
+	</main>
+	<footer class="main-footer">
+		<div class="footer-content">&copy; 2024 Талалихинцы</div>
+	</footer>
+	<script>
+		// Мобильное меню
+		document.getElementById('burger-menu').onclick = function() {
+			document.getElementById('main-nav').classList.toggle('open');
+		};
+	</script>
+</body>
+</html>

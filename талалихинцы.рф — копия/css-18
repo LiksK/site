@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Adamina';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/adamina/v21/j8_r6-DH1bjoc-dwi-3UFQ.ttf) format('truetype');
+}

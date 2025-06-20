@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Новости — Талалихинцы</title>
+	<link rel="stylesheet" href="../main-redesign.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header class="main-header">
+		<div class="header-top">
+			<button class="burger" id="burger-menu" aria-label="Открыть меню">
+				<span></span><span></span><span></span>
+			</button>
+			<img src="../gallery_gen/47ffac71fde0d5a3b65d44b58713ba9e.jpg" alt="Дети и педагоги" class="header-photo">
+		</div>
+		<div class="header-title-block">
+			<h1>ТАЛАЛИХИНЦЫ</h1>
+			<h2>МЕЖРЕГИОНАЛЬНАЯ ПАТРИОТИЧЕСКАЯ<br>ОБЩЕСТВЕННАЯ ОРГАНИЗАЦИЯ</h2>
+		</div>
+	</header>
+	<nav class="main-nav" id="main-nav">
+		<ul>
+			<li><a href="../index.html">Главная</a></li>
+			<li><a href="index.htm" class="active">Новости</a></li>
+			<li><a href="../Статьи/index.htm">Статьи</a></li>
+			<li><a href="../Музейное-сотрудничество/index.htm">Музейное сотрудничество</a></li>
+			<li><a href="../Военно-патриотическое-воспитание/index.htm">Военно-патриотическое воспитание</a></li>
+			<li><a href="../Увековечивание-памяти/index.htm">Увековечение памяти</a></li>
+		</ul>
+	</nav>
+	<main>
+		<section class="hero-block">
+			<div class="hero-info">
+				<div class="hero-text">
+					<h2>Новости</h2>
+					<p>Последние события, анонсы и отчёты о деятельности организации «Талалихинцы».</p>
+				</div>
+			</div>
+		</section>
+		<section class="news-block">
+			<h3>Актуальные новости</h3>
+			<!-- Здесь будут новости, галереи, видео и т.д. -->
+			<!-- Пример одной новости, остальные можно добавить по аналогии -->
+			<article class="news-item">
+				<h4>24 апреля 2025 г. — Открытие галереи портретов лётчиков</h4>
+				<p>В Гжельском государственном университете открылась галерея портретов лётчиков, совершивших воздушные тараны в годы Великой Отечественной войны.</p>
+				<p>Подробнее: <a href="https://edupressa.vm.ru/news/otkrytie-galerei-portretov-lyotchikov-sovershivshih-vozdushnye-tarany-v-gody-velikoj-otechestvennoj-vojny/" target="_blank">edupressa.vm.ru</a></p>
+				<p><a href="../gallery/8.pdf" target="_blank">Выпуск газеты Калейдоскоп от 04.06.2025 г.</a></p>
+			</article>
+			<!-- ...другие новости, галереи, видео, фото ... -->
+		</section>
+		<!-- Можно добавить секцию с галереей, если нужно -->
+		<!-- <section class="gallery-block">...</section> -->
+		<section class="subscribe-block">
+			<h3>Вы подписались на наши эксклюзивные предложения?</h3>
+			<form class="subscribe-form">
+				<input type="text" name="name" placeholder="Имя" required>
+				<input type="email" name="email" placeholder="Эл. почта" required>
+				<input type="text" name="city" placeholder="Город" required>
+				<label class="checkbox-label"><input type="checkbox" name="subscribe"> Я хочу получать рассылку</label>
+				<button type="submit">Подписка</button>
+			</form>
+			<div class="contact-email">talalihinzy@mail.ru</div>
+		</section>
+	</main>
+	<footer class="main-footer">
+		<div class="footer-content">&copy; 2024 Талалихинцы</div>
+	</footer>
+	<script>
+		// Мобильное меню
+		document.getElementById('burger-menu').onclick = function() {
+			document.getElementById('main-nav').classList.toggle('open');
+		};
+	</script>
+</body>
+</html>

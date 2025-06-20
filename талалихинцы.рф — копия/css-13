@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 200;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ml1RMB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMl1RMB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml1RMB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMl1RMB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQl1RMB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl1RMB.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/dosis/v33/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7Ql1RMB.ttf) format('truetype');
+}
