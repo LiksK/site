@@ -59,6 +59,13 @@
 						Командир поискового отряда "Обелиск", ревизор МПОО "Талалихинцы"
 					</div>
 				</div>
+				<div class="carousel-slide" style="display:none;">
+					<img src="gallery/e9587da9ea7d220575f87207ef4b20ec.jpg" alt="Проскурин Юрий Николаевич">
+					<div class="carousel-caption">
+						<b>Проскурин Юрий Николаевич</b><br>
+						Первый заместитель председателя МПОО "Талалихинцы", председатель регионального отделения в г.Домодедово Московской области
+					</div>
+				</div>
 				<button class="carousel-btn next" aria-label="Вперед">&#10095;</button>
 			</div>
 			<p class="about-people">С начала талалихинского движения в нем активно участвовали Тимофеева Надежда Ивановна, Попова Галина Петровна, Проскурин Юрий Николаевич, Печеневский Владимир Александрович, Земсков Алексей Николаевич, Лисин Александр Иванович; с 2014 года Поляков Михаил Михайлович, Михайлов Михаил Владимирович и другие активисты организации.</p>
@@ -95,8 +102,25 @@
 		document.getElementById('burger-menu').onclick = function() {
 			document.getElementById('main-nav').classList.toggle('open');
 		};
-		// Простейшая карусель (один слайд, для примера)
-		// Для реальной карусели нужен JS-плагин или доработка
+		// Карусель на 2 слайда
+		(function() {
+			const slides = document.querySelectorAll('.carousel-slide');
+			let current = 0;
+			function showSlide(idx) {
+				slides.forEach((slide, i) => {
+					slide.style.display = (i === idx) ? '' : 'none';
+				});
+			}
+			document.querySelector('.carousel-btn.next').onclick = function() {
+				current = (current + 1) % slides.length;
+				showSlide(current);
+			};
+			document.querySelector('.carousel-btn.prev').onclick = function() {
+				current = (current - 1 + slides.length) % slides.length;
+				showSlide(current);
+			};
+			showSlide(current);
+		})();
 	</script>
 </body>
 </html>
